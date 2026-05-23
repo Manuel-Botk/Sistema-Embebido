@@ -61,8 +61,6 @@ Muchos sistemas comerciales de monitoreo son costosos y complejos, por lo que es
 
 ## Evidencia del circuito
 
-> Agregar aquí imágenes del montaje físico del proyecto.
 
-```bash
-/images/diagrama.jpeg
+> <img src="/images/diagrama.jpeg" align="right"/>
 /images/completo3.jpeg
