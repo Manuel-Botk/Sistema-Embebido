@@ -57,10 +57,22 @@ Muchos sistemas comerciales de monitoreo son costosos y complejos, por lo que es
 | LED rojo | Pin 7 |
 | GND LED | GND |
 
+> <img src="/imagenes/diagrama.jpeg" align="right"/>
+
 ---
+
+## Instrucciones de uso
+
+1. Conectar el sensor HC-SR04 y el LED según el diagrama.
+2. Conectar el Arduino Uno al computador mediante USB.
+3. Abrir el archivo `.ino` en Arduino IDE.
+4. Seleccionar la placa Arduino Uno y el puerto correspondiente.
+5. Cargar el código al Arduino.
+6. Ejecutar el sistema.
+
+Cuando el sensor detecte una distancia menor al umbral establecido, el LED rojo se encenderá como alerta de somnolencia.
 
 ## Evidencia del circuito
 
+> <img src="/imagenes/completo3.jpeg" align="right"/>
 
-> <img src="/imagenes/diagrama.jpeg" align="right"/>
-/images/completo3.jpeg
