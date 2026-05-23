@@ -75,5 +75,5 @@ Cuando el sensor detecte una distancia menor al umbral establecido, el LED rojo 
 ## Evidencia del circuito
 
 > <img src="/imagenes/completo3.jpeg" align="right"/>
-> <img src="/imagenes/completo.jpeg" align="left"/>
+> <img src="/imagenes/completo2.jpeg" align="left"/>
 
