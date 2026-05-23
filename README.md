@@ -57,7 +57,7 @@ Muchos sistemas comerciales de monitoreo son costosos y complejos, por lo que es
 | LED rojo | Pin 7 |
 | GND LED | GND |
 
-> <img src="/imagenes/diagrama.jpeg" align="right"/>
+> <img src="/imagenes/diagrama.jpeg" align="center"/>
 
 ---
 
