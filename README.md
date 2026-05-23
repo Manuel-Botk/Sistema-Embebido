@@ -62,5 +62,5 @@ Muchos sistemas comerciales de monitoreo son costosos y complejos, por lo que es
 ## Evidencia del circuito
 
 
-> <img src="/images/diagrama.jpeg" align="right"/>
+> <img src="/imagenes/diagrama.jpeg" align="right"/>
 /images/completo3.jpeg
