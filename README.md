@@ -64,5 +64,5 @@ Muchos sistemas comerciales de monitoreo son costosos y complejos, por lo que es
 > Agregar aquí imágenes del montaje físico del proyecto.
 
 ```bash
-/images/circuito.jpg
-/images/prototipo.jpg
+/images/diagrama.jpeg
+/images/completo3.jpeg
