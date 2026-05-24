@@ -79,9 +79,9 @@ Los sistemas comerciales de monitoreo biométrico son costosos y de difícil acc
  
 1. Clonar o descargar este repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repo.git
+   git clone https://github.com/Manuel-Botk/Sistema-Embebido.git
    ```
-2. Abrir el archivo `codigo/alarma_sueno.ino` en el Arduino IDE.
+2. Abrir el archivo `arduino.ino` en el Arduino IDE.
 3. En el menú **Herramientas**, seleccionar:
    - **Placa:** Arduino Uno
    - **Puerto:** el puerto COM o `/dev/ttyUSB` que corresponda al Arduino conectado.
